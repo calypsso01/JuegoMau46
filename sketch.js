@@ -2,7 +2,7 @@ var bg,bgImg,bgImg1;
 var player, shooterImg, shooter_shooting;
 var zombie, zombieImg1,zombieImg2,zombieImg3;
 var bats,batsImg;
-
+//holo
 
 function preload(){
   
